@@ -1,5 +1,5 @@
 # cmsite
-cmsimde template uses mdecycu/cmsimde as submodule
+cmsimde template uses mdecycu/cmsimde as submodulehttps://site-ChenYanGino.chenyangino.repl.co
 
 On Replit:
 
